@@ -1,0 +1,4 @@
+# Copy to terraform.tfvars and set values (terraform.tfvars is gitignored).
+# Required for apply: none (aws_region has a default).
+
+aws_region = "us-east-1"
